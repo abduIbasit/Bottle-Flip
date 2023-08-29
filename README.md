@@ -1,2 +1,4 @@
 # Bottle-Flip
-An object detection model developed to identify pet pepsi bottle in upright position
+An object detection model trained to identify pet pepsi bottle in upright position. 
+
+The model uses YOLOv8 algorithm
